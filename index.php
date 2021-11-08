@@ -21,4 +21,6 @@
         echo "<h3>I am : $age </h3>";
     ?>
     <button class ="btn btn-primary">Click me!</button>
+    <a href ="https://www.heroku.com" class ="btn btn-danger"
+    target ="_blank">Heroku</a>
     <?php require "includes/footer.php" ?>
