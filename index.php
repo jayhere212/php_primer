@@ -20,5 +20,5 @@
         $age =20;
         echo "<h3>I am : $age </h3>";
     ?>
-    <button class ="btn btn-primary">Click me !</button>
+    <button class ="btn btn-primary">Click me!</button>
     <?php require "includes/footer.php" ?>
